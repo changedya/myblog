@@ -49,6 +49,6 @@ public class MD5Utils {
 
 
     public static void main(String[] args) {
-        System.out.println(code("102320"));
+        System.out.println(code("********"));
     }
 }
